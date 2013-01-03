@@ -1,6 +1,6 @@
 #labels Featured
 Version(25/12/2012)：
 
-1.Android SDK V3.2
-2.iOS SDK V1.4
-3.Windows Phone SDK V1.0 beta
+1.Android SDK V3.2<br/>
+2.iOS SDK V1.4<br/>
+3.Windows Phone SDK V1.0 beta<br/>
