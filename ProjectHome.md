@@ -1,0 +1,1 @@
+iMagPay Card Reader. iMagPay is a magnetic stripe reader that communicates with mobile devices via the audio headphone jack. Use your mobile device to read a variety of magnetic stripes, include credit cards, signature debit cards, gift cards, loyalty cards, driver’s licenses, and ID badges.
